@@ -9,9 +9,9 @@
 		<relativePath></relativePath>
 	</parent>
 	<groupId>com.eazybytes</groupId>
-	<artifactId>springsecsection1</artifactId>
+	<artifactId>springsecurity</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springsecsection1</name>
+	<name>springsecurity</name>
 	<description>Demo project for Spring Boot</description>
 	<url></url>
 	<licenses>
