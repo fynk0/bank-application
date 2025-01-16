@@ -14,6 +14,13 @@ spring:
   #   active:
   #   - prod
 
+server:
+  servlet:
+    session:
+      timeout: ${SESSION_TIMEOUT:30s}
+      cookie:
+        max-age: ${MAX_AGE:30s}
+
 logging:
   level:
     org:
