@@ -10,9 +10,6 @@ spring:
     properties:
       hibernate:
         format_sql: ${HIBERNATE_FORMAT_SQL:true}
-  # profiles:
-  #   active:
-  #   - prod
 
 logging:
   level:
